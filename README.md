@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tobi-Julius
-- 👀 I’m 23 years old Mobile application developer
+- 👀 I’m 24 years old Mobile application developer
 - 🌱 I’m currently learning typescript and node js
 - 💞️ I’m obsessed for impact 
 
