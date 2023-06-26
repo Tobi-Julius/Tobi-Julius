@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Tobi-Julius
-- 👀 I’m 24 years old Mobile application developer
-- 🌱 I’m currently learning typescript and node js
-- 💞️ I’m obsessed for impact 
+- 👀 I’m software Engineer
+- 🌱 With strength in building Mobile/Desktop Applications web Applications
+- 📱 I work with Flutter and React native for mobile Development, and React, Vue, Nextjs for web Development
+- 😎 I have enormous ability in all phases of a project; Planning, Designing, developing, Testing, Deploying and Managing, 
+- 💞️ I’m up for new challenge 
 
 <!---
 Tobi-Julius/Tobi-Julius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
