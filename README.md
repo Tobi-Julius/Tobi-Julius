@@ -1,9 +1,9 @@
 ## Hi, I’m Tobi Julius <br/>
--  Software Engineer (Mobile & Web)  <br/>
-- 🌱 With strength in building Mobile/Desktop Applications web Applications  <br/>
-- 📱 I work with Flutter and React native for mobile Development, and React, Nextjs for web Development  <br/>
-- 😎 I have enormous ability in all phases of a project; Planning, Designing, developing, Testing, Deploying and Managing. <br/>
-- 💞️ I’m up for new challenge  <br/>
+-  Software Engineer (Mobile & Web) <br/>
+- 🌱 Skilled in building Mobile, Desktop, and Web Applications <br/>
+- 📱 Experienced with Flutter and React Native for mobile development, and React & Next.js for web development  <br/>
+- 😎 Proficient across all project phases: Planning, Designing, Developing, Testing, Deploying, and Managing <br/>
+- 💞😄 Always open to new challenges and opportunities to create impactful solutions <br/>
 
 
 
